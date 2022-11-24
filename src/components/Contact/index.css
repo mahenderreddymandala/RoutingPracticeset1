@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.style-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.image-style {
+  height: 40%;
+  width: 40%;
+}
